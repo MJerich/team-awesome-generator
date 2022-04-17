@@ -1,7 +1,7 @@
 // create the projects section
 const generateCard = (name, job, id, email, extra) => {
     return `
-    <div class="card border-success mb-3 col-4" style="max-width: 18rem;">
+    <div class="card border-success mb-3 col-4 px-0" style="max-width: 18rem;">
         <div class="card-header bg-primary">
             <h3 class="p-2">${name}</h3>
             <h4 class="p-2">${job}</h4>
