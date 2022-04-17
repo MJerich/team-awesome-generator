@@ -32,9 +32,11 @@ then use the 'npm install' command in the console to get all the needed packages
 
 ## Usage
 
-YouTube video on how it works: [Coming Soon](Coming Soon)
+YouTube video on how it works: [https://youtu.be/R46OGEHj3FM](https://youtu.be/R46OGEHj3FM)
 
 ## Screenshot
+
+![Screenshot](/assets/images/screenshot.png)
 
 ## Questions
 
